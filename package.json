@@ -1,0 +1,50 @@
+{
+  "name": "nextjs-typescript-template",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "main": "pages/index.tsx",
+  "dependencies": {
+    "@babylonjs/core": "5.28.0",
+    "@babylonjs/gui": "5.28.0",
+    "@babylonjs/inspector": "5.28.0",
+    "@babylonjs/loaders": "5.28.0",
+    "@babylonjs/materials": "5.28.0",
+    "@emotion/react": "11.10.4",
+    "@emotion/server": "11.10.0",
+    "@mantine/core": "5.5.5",
+    "@mantine/dates": "5.5.5",
+    "@mantine/dropzone": "5.5.5",
+    "@mantine/hooks": "5.5.5",
+    "@mantine/next": "5.5.5",
+    "@types/node": "18.11.0",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "@zeit/next-sass": "1.0.1",
+    "dayjs": "1.11.5",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-babylonjs": "3.1.11",
+    "react-dom": "18.2.0",
+    "sass": "1.55.0",
+    "tabler-icons-react": "1.55.0",
+    "typescript": "4.8.4",
+    "zustand": "4.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.23",
+    "@types/react": "18.0.0",
+    "@types/react-dom": "18.0.0",
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.4",
+    "sass": "1.52.2",
+    "typescript": "4.6.3"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
